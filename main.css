@@ -61,3 +61,9 @@ img {
   display:flex;
   align-items: center;
 }
+#contacts a {
+  color: #0d65c2
+}
+#contacts a:hover, #contacts a:focus {
+  color: #6297d0
+}
