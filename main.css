@@ -34,6 +34,9 @@ a {
     color: inherit;
     text-decoration: none;
 }
+nav a:hover, nav a:focus {
+  background-color: #76EEF5;
+}
 p {
     margin-bottom: 0;
 }
